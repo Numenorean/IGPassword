@@ -1,5 +1,5 @@
 # IGPassword
-This lib provide you instagram password encryption (only ios/android auth)
+This lib provides you instagram password encryption (only ios/android auth)
 ### Installation
 Install this package with command `go get -u github.com/Numenorean/IGPassword`
 
